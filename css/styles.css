@@ -1,0 +1,25 @@
+
+/*  https://colorhunt.co/palette/273174 */
+
+body {
+  background-color: #f4eee8 ;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 5px;
+  border-color: #114E60;
+  height: 2px;
+  width: 5%;
+
+
+}
+h1{
+  color: #325288;
+
+}
+
+h3 {
+  color: #325288;
+}
